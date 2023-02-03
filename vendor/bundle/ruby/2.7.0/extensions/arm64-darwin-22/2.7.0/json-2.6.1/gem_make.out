@@ -1,0 +1,16 @@
+current directory: /Users/muhammadusama/ProjectsNonicloude/lovibear/lovibear/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/muhammadusama/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/muhammadusama/.rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/muhammadusama/ProjectsNonicloude/lovibear/lovibear/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230126-29262-1j487fo sitelibdir\=./.gem.20230126-29262-1j487fo clean
+
+current directory: /Users/muhammadusama/ProjectsNonicloude/lovibear/lovibear/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230126-29262-1j487fo sitelibdir\=./.gem.20230126-29262-1j487fo
+make: Nothing to be done for `all'.
+
+current directory: /Users/muhammadusama/ProjectsNonicloude/lovibear/lovibear/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230126-29262-1j487fo sitelibdir\=./.gem.20230126-29262-1j487fo install
+
+current directory: /Users/muhammadusama/ProjectsNonicloude/lovibear/lovibear/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230126-29262-1j487fo sitelibdir\=./.gem.20230126-29262-1j487fo clean

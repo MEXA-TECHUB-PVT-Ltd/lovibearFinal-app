@@ -1,0 +1,6 @@
+module Pods_lovibear_lovibearTests {
+  umbrella header "Pods-lovibear-lovibearTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
